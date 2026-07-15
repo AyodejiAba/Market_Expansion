@@ -3,7 +3,6 @@
 
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analytics-008080?style=flat)
 
